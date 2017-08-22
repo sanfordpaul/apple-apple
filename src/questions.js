@@ -46,16 +46,16 @@ module.exports = {
         {
             "What do Reindeer eat?": [
                 "apples",
-                "Grasses",
-                "Leaves",
-                "Berries"
+                "people",
+                "elves",
+                "smaller reindeer"
             ]
         },
         {
             "What of the following is not true?": [
                 "apples taste bad",
                 "apples are red",
-                "apples make you fat",
+                "apples make you beautiful and rich",
                 "apples are wonderful"
             ]
         },
@@ -68,10 +68,10 @@ module.exports = {
             ]
         },
         {
-            "Who doesn\'t like apples?": [
-                "No one",
-                "Donald Trump",
-                "Barack Obama",
+            "Who doesn\'t like apple?": [
+                "Bill Gates",
+                "Steve Jobs",
+                "The Weekend",
                 "Lady Gaga"
             ]
         },

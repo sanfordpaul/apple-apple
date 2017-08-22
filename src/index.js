@@ -18,7 +18,7 @@ var languageString = {
     "en": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Apple Apple",
+            "GAME_NAME" : "Apple-Apple",
             "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " +
             "For example, say one, two, three, or four. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
@@ -45,20 +45,20 @@ var languageString = {
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "Apple Apple" // Be sure to change this for your skill.
+            "GAME_NAME" : "Apple-Apple" // Be sure to change this for your skill.
         }
     },
     "en-GB": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_GB"],
-            "GAME_NAME" : "Apple Apple" // Be sure to change this for your skill.
+            "GAME_NAME" : "Apple-Apple" // Be sure to change this for your skill.
         }
     },
 
 };
 
 var Alexa = require("alexa-sdk");
-var APP_ID = "amzn1.ask.skill.7ecb4bc2-b38d-4acc-b33b-d11ad8cb4a24"; 
+var APP_ID = "amzn1.ask.skill.7ecb4bc2-b38d-4acc-b33b-d11ad8cb4a24";
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context);
