@@ -111,7 +111,7 @@ module.exports = {
             "What Makes Santa\'s Reindeer Fly?": [
                 "apples",
                 "Fusion",
-                "Amanita muscaria",
+                "fear of public humiliation",
                 "Elves"
             ]
         },
