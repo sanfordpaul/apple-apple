@@ -49,15 +49,15 @@ module.exports = {
                "apples",
                "people",
                "smaller reindeer",
-               "leaves"
+               "bad drugs"
            ]
        },
        {
            "Which of the following is not true?": [
-               "apples taste bad",
-               "apples are red",
+               "apples tastes like chicken",
+               "apples increase stamina",
                "apples make you rich and beautiful",
-               "apples are wonderful"
+               "nobody doesn\'t like apples"
            ]
        },
        {
@@ -72,7 +72,7 @@ module.exports = {
            "Who doesn\'t like apples?": [
                "Bill Gates",
                "Steve Jobs",
-               "ariana grande",
+               "Ariana Grande",
                "Lady Gaga"
            ]
        },
@@ -93,19 +93,19 @@ module.exports = {
            ]
        },
        {
-           "Who invented the story of the golden apple?": [
+           "Who invented the story, exodus of the great American apple?": [
                "Paul Sanford",
-               "Johnny Marks",
-               "Santa",
+               "Hemmingway",
+               "Jonathon AppleSeed",
                "J.K. Rowling"
            ]
        },
        {
            "In what location will you not find apples?": [
-               "The South Pole",
-               "Houston",
-               "Bangkok",
-               "Tokyo"
+               "A fat kids lunchbox",
+               "Fiesta",
+               "farmers market",
+               "an orchard"
            ]
        },
        {
@@ -121,7 +121,7 @@ module.exports = {
                "apple apple",
                "tomato tomato tomato",
                "apples and oranges",
-               "two apples and a cute dog"
+               "my two apples and a cute kid"
            ]
        },
        {
@@ -143,10 +143,10 @@ module.exports = {
        {
            "What Makes Popeye stronger?": [
                "spinach",
-               "L.S.D",
-               "T.G.I.F",
-               "P.C.P",
-               "T.L.C"
+               "L.S.D.",
+               "T.G.I.F.",
+               "P.C.P.",
+               "T.L.C."
            ]
        }
 
