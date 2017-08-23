@@ -102,8 +102,8 @@ module.exports = {
        },
        {
            "In what location will you not find apples?": [
-               "A fat kid\'s lunchbox",
-               "Fiesta",
+               "my lunchbox",
+               "Whole Foods",
                "a farmers market",
                "an orchard"
            ]
