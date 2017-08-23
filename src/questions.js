@@ -45,7 +45,7 @@ module.exports = {
            ]
        },
        {
-           "What do Reindeer eat?": [
+           "What do Reindeer like to eat the most?": [
                "apples",
                "people",
                "smaller reindeer",
@@ -54,14 +54,14 @@ module.exports = {
        },
        {
            "Which of the following is not true?": [
-               "apples tastes like chicken",
+               "apples taste like chicken",
                "apples increase stamina",
                "apples make you rich and beautiful",
                "nobody doesn\'t like apples"
            ]
        },
        {
-           "In what year was the great apple barrel controversy?": [
+           "In what year was the Great Apple Barrel Controversy?": [
                "1884",
                "1973",
                "2030",
@@ -104,7 +104,7 @@ module.exports = {
            "In what location will you not find apples?": [
                "A fat kid\'s lunchbox",
                "Fiesta",
-               "farmers market",
+               "a farmers market",
                "an orchard"
            ]
        },
