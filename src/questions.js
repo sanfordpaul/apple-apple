@@ -119,7 +119,7 @@ module.exports = {
        {
            "What is the name of this game?": [
                "Apple Apple",
-               "Tomato Tomato Tomato",
+               "tomato, tomahtoh, tomato",
                "Apples and Oranges",
                "My Two Apples"
            ]
