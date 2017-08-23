@@ -53,7 +53,7 @@ module.exports = {
            ]
        },
        {
-           "What of the following is not true?": [
+           "Which of the following is not true?": [
                "apples taste bad",
                "apples are red",
                "apples make you rich and beautiful",
