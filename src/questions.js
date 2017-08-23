@@ -115,6 +115,39 @@ module.exports = {
                "fear of public humiliation",
                "bad drugs"
            ]
+       },
+       {
+           "What is the name of this game?": [
+               "apple apple",
+               "tomato tomato tomato",
+               "apples and oranges",
+               "two apples and a cute dog"
+           ]
+       },
+       {
+           "Who named their kid apple?": [
+               "Gwyneth Paltrow and Chris Martin",
+               "Brad Pitt and Angelina Jolie",
+               "Kelly Tisdale and Mike Myers",
+               "Nicolas Cage and Alice Kim"
+           ]
+       },
+       {
+           "Fill in the blank. Easy Squeazy, blank. Peezey.": [
+               "lemon",
+               "apple",
+               "difficult",
+               "wheezy"
+           ]
+       },
+       {
+           "What Makes Popeye stronger?": [
+               "spinach",
+               "L.S.D",
+               "T.G.I.F",
+               "P.C.P",
+               "T.L.C"
+           ]
        }
 
     ]
