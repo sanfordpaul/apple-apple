@@ -9,11 +9,11 @@ module.exports = {
      "QUESTIONS_EN_US" : [
        {
            "Apples are delicious. Which variety is the most delicious?": [
-               "jazz apples",
-               "golden apples",
-               "fuji apples",
-               "granny smith apples",
-               "envoy apples",
+               "Jazz apples",
+               "Golden apples",
+               "Fuji apples",
+               "Granny Smith apples",
+               "Envoy apples",
                "rotten apples"
            ]
        },
@@ -93,9 +93,9 @@ module.exports = {
            ]
        },
        {
-           "Who invented the story, exodus of the great American apple?": [
+           "Who invented the story, Exodus of the Great American Apple?": [
                "Paul Sanford",
-               "Hemmingway",
+               "Earnest Hemingway",
                "Jonathon AppleSeed",
                "J.K. Rowling"
            ]
@@ -111,21 +111,21 @@ module.exports = {
        {
            "What Makes Santa\'s Reindeer Fly?": [
                "apples",
-               "Fusion",
+               "fusion",
                "fear of public humiliation",
                "bad drugs"
            ]
        },
        {
            "What is the name of this game?": [
-               "apple apple",
-               "tomato tomato tomato",
-               "apples and oranges",
-               "my two apples and a cute kid"
+               "Apple Apple",
+               "Tomato Tomato Tomato",
+               "Apples and Oranges",
+               "My Two Apples"
            ]
        },
        {
-           "Who named their kid apple?": [
+           "Who named their kid, Apple?": [
                "Gwyneth Paltrow and Chris Martin",
                "Brad Pitt and Angelina Jolie",
                "Kelly Tisdale and Mike Myers",
